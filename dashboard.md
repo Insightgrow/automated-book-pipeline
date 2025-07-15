@@ -1,0 +1,6 @@
+# Automated Book Pipeline Dashboard
+
+|   Chapter ID | URL                                                                  |   Similarity (AI) |   Similarity (Final) |   Readability (AI) |   Readability (Final) | Human Rewarded?   |
+|--------------|----------------------------------------------------------------------|-------------------|----------------------|--------------------|-----------------------|-------------------|
+|            1 | https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_1 |              0.75 |                 0.08 |              67.41 |                 33.58 | No                |
+|            2 | https://en.wikisource.org/wiki/The_Gates_of_Morning/Book_1/Chapter_2 |              0.59 |                 0.31 |              78.47 |                103.04 | No                |

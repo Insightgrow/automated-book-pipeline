@@ -1,0 +1,5 @@
+playwright
+openai
+chromadb
+tiktoken
+sentence-transformers
